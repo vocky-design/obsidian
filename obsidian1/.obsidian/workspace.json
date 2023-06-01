@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2008d128ed9fa6d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活记录/装机方案.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,6 +168,6 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "babe7badaf623755",
+  "active": "2008d128ed9fa6d0",
   "lastOpenFiles": []
 }
