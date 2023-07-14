@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术知识/conda环境配置.md",
+                "file": "项目信息/V2.0工装/设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术知识/conda环境配置.md",
+                "file": "项目信息/V2.0工装/设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术知识/conda环境配置.md",
+                "file": "项目信息/V2.0工装/设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术知识/conda环境配置.md"
+                "file": "项目信息/V2.0工装/设计.md"
               }
             }
           }
@@ -155,18 +155,40 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "8a17c6f54b203d9b",
+  "active": "d48abb468349823c",
   "lastOpenFiles": [
-    "项目信息/未命名",
-    "技术知识/正则表达式.md",
-    "技术知识/conda环境配置.md",
+    "技术知识/网络相关/arp.md",
+    "项目信息/V2.0工装/设计.md",
+    "技术知识/网络相关/brctl.md",
+    "技术知识/网络相关/ping.md",
+    "技术知识/c库.md",
+    "技术知识/网络相关",
+    "技术知识/repo.md",
+    "技术知识/cmake.md",
+    "技术知识/ssh配置.md",
+    "技术知识/git.md",
+    "技术知识/gdb.md",
+    "技术知识/docker.md",
+    "技术知识/errno错误对照表.md",
+    "技术知识/make.md",
+    "项目信息/工作流程规范.md",
+    "项目信息/V2.0工装",
+    "未命名",
+    "优秀代码收集/1.md",
+    "优秀代码收集",
+    "技术知识/shell.md",
     "技术知识/文本模式匹配及修改.md",
+    "技术知识/内核日志.md",
+    "技术知识/python.md",
+    "项目信息/FPD-LINK/文档内容梳理/How to design a FPD-LINK III.md",
+    "项目信息/FPD-LINK/v4l2-ctl的使用.md",
+    "项目信息/FPD-LINK/文档内容梳理/954手册.md",
+    "技术知识/conda环境配置.md",
+    "项目信息/FPD-LINK/文档内容梳理",
+    "项目信息/FPD-LINK",
+    "技术知识/正则表达式.md",
     "生活记录/账号密码.md",
     "项目信息/本周工作梳理.md",
-    "项目信息/常用信息.md",
-    "项目信息/DSP各种号码的含义.md",
-    "项目信息/现场调试问题.md",
-    "生活记录/装机方案.md",
     "项目信息",
     "技术知识"
   ]
