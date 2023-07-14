@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14cf200a7e54850a",
+        "id": "91d7a9256947209c",
         "type": "tabs",
         "children": [
           {
-            "id": "babe7badaf623755",
+            "id": "d48abb468349823c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活记录/装机方案.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2008d128ed9fa6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活记录/装机方案.md",
+                "file": "技术知识/conda环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活记录/装机方案.md",
+                "file": "技术知识/conda环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活记录/装机方案.md",
+                "file": "技术知识/conda环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,16 +133,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活记录/装机方案.md"
+                "file": "技术知识/conda环境配置.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +155,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "babe7badaf623755",
+  "active": "8a17c6f54b203d9b",
   "lastOpenFiles": [
-    "生活记录/装机方案.md"
+    "项目信息/未命名",
+    "技术知识/正则表达式.md",
+    "技术知识/conda环境配置.md",
+    "技术知识/文本模式匹配及修改.md",
+    "生活记录/账号密码.md",
+    "项目信息/本周工作梳理.md",
+    "项目信息/常用信息.md",
+    "项目信息/DSP各种号码的含义.md",
+    "项目信息/现场调试问题.md",
+    "生活记录/装机方案.md",
+    "项目信息",
+    "技术知识"
   ]
 }
