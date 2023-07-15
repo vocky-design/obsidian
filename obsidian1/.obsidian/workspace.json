@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/conda环境配置.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/conda环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/conda环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md"
+                "file": "技术知识/conda环境配置.md"
               }
             }
           }
@@ -157,8 +157,8 @@
   },
   "active": "d48abb468349823c",
   "lastOpenFiles": [
-    "技术知识/网络相关/arp.md",
     "项目信息/V2.0工装/设计.md",
+    "技术知识/网络相关/arp.md",
     "技术知识/网络相关/brctl.md",
     "技术知识/网络相关/ping.md",
     "技术知识/c库.md",
