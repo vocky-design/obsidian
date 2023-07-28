@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/rv1126/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,6 +56,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "ac676095dc268738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -78,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/rv1126/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md",
+                "file": "技术知识/rv1126/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目信息/V2.0工装/设计.md"
+                "file": "技术知识/rv1126/未命名.md"
               }
             }
           }
@@ -143,8 +151,12 @@
   },
   "active": "ff50f0c046b1d4da",
   "lastOpenFiles": [
-    "项目信息/V2.0工装/diragarms/sensor测试项.svg",
+    "技术知识/内核日志.md",
+    "技术知识/rv1126/未命名.md",
     "项目信息/V2.0工装/设计.md",
+    "技术知识/rv1126",
+    "技术知识/未命名.md",
+    "项目信息/V2.0工装/diragarms/sensor测试项.svg",
     "项目信息/V2.0工装/diragarms/Untitled Diagram.svg",
     "项目信息/V2.0工装/diragarms",
     "项目信息/常用信息.md",
@@ -175,8 +187,6 @@
     "优秀代码收集/1.md",
     "优秀代码收集",
     "技术知识/shell.md",
-    "技术知识/文本模式匹配及修改.md",
-    "技术知识/内核日志.md",
     "项目信息/FPD-LINK/文档内容梳理",
     "项目信息/FPD-LINK",
     "项目信息",
