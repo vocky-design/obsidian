@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "优秀代码收集/1.md",
+                "file": "2023-07-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "优秀代码收集/1.md",
+                "file": "2023-07-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "优秀代码收集/1.md",
+                "file": "2023-07-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "优秀代码收集/1.md"
+                "file": "2023-07-16.md"
               }
+            }
+          },
+          {
+            "id": "96126998618fd7b3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +153,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ff50f0c046b1d4da",
+  "active": "96126998618fd7b3",
   "lastOpenFiles": [
+    "优秀代码收集/1.md",
     "技术知识/rv1126/未命名.md",
     "技术知识/内核日志.md",
     "项目信息/V2.0工装/设计.md",
@@ -184,7 +193,6 @@
     "技术知识/make.md",
     "项目信息/V2.0工装",
     "未命名",
-    "优秀代码收集/1.md",
     "优秀代码收集",
     "技术知识/shell.md",
     "项目信息/FPD-LINK/文档内容梳理",
