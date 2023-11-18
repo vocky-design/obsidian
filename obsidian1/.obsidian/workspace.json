@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2bf8e8ff756ee6b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96126998618fd7b3",
+  "active": "2bf8e8ff756ee6b6",
   "lastOpenFiles": [
     "优秀代码收集/1.md",
     "技术知识/rv1126/未命名.md",
