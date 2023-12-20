@@ -1,4 +1,10 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "项目信息/V2.0工装/未命名"
+  "attachmentFolderPath": "./photos",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
