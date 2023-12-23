@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术知识/errno错误对照表.md",
+                "file": "技术知识/虚拟机搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术知识/errno错误对照表.md",
+                "file": "技术知识/虚拟机搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术知识/errno错误对照表.md",
+                "file": "技术知识/虚拟机搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术知识/errno错误对照表.md"
+                "file": "技术知识/虚拟机搭建.md"
               }
             }
           },
@@ -159,11 +159,12 @@
   },
   "active": "b398c54cbd3b21f3",
   "lastOpenFiles": [
+    "技术知识/errno错误对照表.md",
+    "技术知识/虚拟机搭建.md",
     "技术知识/网络相关/brctl.md",
     "技术知识/内核日志.md",
     "技术知识/文本模式匹配及修改.md",
     "技术知识/正则表达式.md",
-    "技术知识/errno错误对照表.md",
     "技术知识/gdb.md",
     "errno错误对照表.pdf",
     "2023-07-16.md",
@@ -171,7 +172,6 @@
     "技术知识/rv1126/未命名.md",
     "项目信息/V2.0工装/设计.md",
     "技术知识/rv1126",
-    "技术知识/未命名.md",
     "项目信息/V2.0工装/diragarms/sensor测试项.svg",
     "项目信息/V2.0工装/diragarms/Untitled Diagram.svg",
     "项目信息/V2.0工装/diragarms",
