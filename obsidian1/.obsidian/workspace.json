@@ -11,15 +11,26 @@
             "id": "b398c54cbd3b21f3",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "errno错误对照表.pdf"
+              }
+            }
+          },
+          {
+            "id": "55a6b28ae0ffda58",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "技术知识/虚拟机搭建.md",
+                "file": "进阶对照表.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 622.5
+    "width": 200
   },
   "right": {
     "id": "63901251ec272470",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术知识/虚拟机搭建.md",
+                "file": "进阶对照表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术知识/虚拟机搭建.md",
+                "file": "进阶对照表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术知识/虚拟机搭建.md"
+                "file": "进阶对照表.md"
               }
             }
           },
@@ -143,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,18 +169,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b398c54cbd3b21f3",
+  "active": "55a6b28ae0ffda58",
   "lastOpenFiles": [
-    "技术知识/errno错误对照表.md",
+    "errno错误对照表.pdf",
+    "进阶对照表.md",
     "技术知识/虚拟机搭建.md",
+    "优秀代码收集/1.md",
+    "2023-07-16.md",
+    "未命名.canvas",
+    "Untitled Diagram.svg",
+    "技术知识/errno错误对照表.md",
     "技术知识/网络相关/brctl.md",
     "技术知识/内核日志.md",
     "技术知识/文本模式匹配及修改.md",
     "技术知识/正则表达式.md",
     "技术知识/gdb.md",
-    "errno错误对照表.pdf",
-    "2023-07-16.md",
-    "优秀代码收集/1.md",
     "技术知识/rv1126/未命名.md",
     "项目信息/V2.0工装/设计.md",
     "技术知识/rv1126",
@@ -178,8 +193,6 @@
     "项目信息/常用信息.md",
     "项目信息/V2.0工装/Untitled Diagram.svg.md",
     "项目信息/DSP各种号码的含义.md",
-    "未命名.canvas",
-    "Untitled Diagram.svg",
     "项目信息/现场调试问题.md",
     "项目信息/工作流程规范.md",
     "项目信息/本周工作梳理.md",
@@ -191,8 +204,6 @@
     "技术知识/repo.md",
     "技术知识/cmake.md",
     "技术知识/ssh配置.md",
-    "技术知识/git.md",
-    "技术知识/docker.md",
     "项目信息/V2.0工装",
     "未命名",
     "优秀代码收集",
